@@ -8,7 +8,7 @@ The **Woo-Edit-Credit-System Plugin** is a WordPress plugin designed to extend W
 
 For a quick demonstration of the plugin in action, check out this video:
 
-[<img src="https://img.youtube.com/vi/djIglDOujIo/0.jpg">](https://www.youtube.com/watch?v=djIglDOujIo)
+[<img src="https://img.youtube.com/vi/Q_beY5W35Sc/0.jpg">](https://www.youtube.com/watch?v=Q_beY5W35Sc)
 
 ## Features
 
