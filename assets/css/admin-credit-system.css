@@ -1,0 +1,36 @@
+.admin_order_credit {
+    display: inline-block;
+    background-color: #f9f9f9;
+    padding: 15px;
+    border: 1px solid #ddd;
+    margin-top: 15px;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.order-credits h3,
+.admin_order_credit h3 {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #333;
+}
+
+.order-credits p,
+.admin_order_credit ul li {
+    font-size: 1em;
+    margin: 0;
+    color: #555;
+}
+
+#edit_cred_status_form {
+    margin-top: 10px;
+}
+
+#edit_cred_status_form select {
+    margin-right: 10px;
+}
+
+#edit_cred_status_form .button {
+    background-color: #007cba;
+    color: #fff;
+}
