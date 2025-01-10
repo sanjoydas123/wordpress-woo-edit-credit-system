@@ -81,15 +81,15 @@ For a quick demonstration of the plugin in action, check out this video:
 
 ### 1. User Account: Add Project
 
-![Screenshot of User Account: Add Project](https://raw.githubusercontent.com/sanjoydas123/wordpress-course-create/main/add-project-screenshot.png)
+![Screenshot of User Account: Add Project](https://raw.githubusercontent.com/sanjoydas123/wordpress-woo-edit-credit-system/main/add-project-screenshot.png)
 
 ### 2. Admin Settings: Link Validation
 
-![Screenshot of Admin Settings: Link Validation](https://raw.githubusercontent.com/sanjoydas123/wordpress-course-create/main/admin-settings-screenshot.png)
+![Screenshot of Admin Settings: Link Validation](https://raw.githubusercontent.com/sanjoydas123/wordpress-woo-edit-credit-system/main/admin-settings-screenshot.png)
 
 ### 3. Free Trial Submission Form
 
-![Screenshot of Free Trial Submission Form](https://raw.githubusercontent.com/sanjoydas123/wordpress-course-create/main/free-trial-screenshot.png)
+![Screenshot of Free Trial Submission Form](https://raw.githubusercontent.com/sanjoydas123/wordpress-woo-edit-credit-system/main/free-trial-screenshot.png)
 
 ---
 
